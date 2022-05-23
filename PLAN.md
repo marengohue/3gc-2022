@@ -32,7 +32,7 @@ Two main categories for the event are:
 - Dune w/ Open RA (https://www.openra.net/)
 - If you have anything you would like to add, feel free to arrange it right there on the spot.
 
-## Switch gamings gods bracket
+## Switch Gamings Gods Bracket
 - Mario Party
 - Mario Kart
 - Super Smash Bros
