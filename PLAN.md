@@ -13,9 +13,7 @@ Two main categories for the event are:
 - Gain points based on your performance (3 pts for attending, 3 pts for winning).
 - At the end, people will get genre champion belts (Golden Strategy God, Golden FPS God, etc...)
 - Matchmaking is challenge based and is done live and the opponent has no right to decline unless they have concluded their participation in the event. Scaredy-cats get deducted points if they do. Basically, just challenge a person to a duel and record the outcome.
-- Fun bonuses are going to be distributed at the end of the match if you think you are worthy. Examples might include the following:
-  1) Most inebriated person in a match gains extra points - *drunk bonus*
-  2) *style points* - say, for Dune - defeat only only using Trikes, your imagination is the key here).
+- Fun bonuses are going to be distributed at the end of the match if you think you are worthy. Examples might include  *style points* - say, for Dune - defeat only only using Trikes, your imagination is the key here).
 - In order to gain these bonus points, both participants have to acknowledge it - be a good sport.
 - Above all, have fun. If you need help setting up for the event or if you don't have some of the games on the list, ask @eugene.rebedailo on slack - he will gift you the missing games on steam.
 
