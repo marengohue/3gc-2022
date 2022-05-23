@@ -15,7 +15,7 @@ Two main categories for the event are:
 - Matchmaking is challenge based and is done live and the opponent has no right to decline unless they have concluded their participation in the event. Scaredy-cats get deducted points if they do. Basically, just challenge a person to a duel and record the outcome.
 - Fun bonuses are going to be distributed at the end of the match if you think you are worthy. Examples might include  *style points* - say, for Dune - defeat only only using Trikes, your imagination is the key here).
 - In order to gain these bonus points, both participants have to acknowledge it - be a good sport.
-- Above all, have fun. If you need help setting up for the event or if you don't have some of the games on the list, ask @eugene.rebedailo on slack - he will gift you the missing games on steam.
+- Above all, have fun. If you need help setting up for the event or if you don't have some of the games on the list, ask @eugene.rebedailo on slack - he will gift you the missing games on steam if you are participating remotely. For people partaking locally, all the games are going to be ready when you join.
 
 ## Party Gaming Gods ##
 - Switches and games are present at the event and are happening in 4-6 player setting. 
